@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<companies>
+  <company>
+    <id>2409613d-f387-49b4-b0de-47a9943bca47</id>
+    <companyName>Zhytomyr buses</companyName>
+    <routes>
+      <route>
+        <id>6edcb669-5553-4ac1-a19e-f2553a3893e1</id>
+        <routeName>3</routeName>
+        <startPoint>
+          <id>83d48dcd-005e-4b5a-b1cb-7bafe1d8efad</id>
+          <name>Kyivska</name>
+        </startPoint>
+        <endPoint>
+          <id>a890b7ff-0db7-41a2-9b06-aeecae55e4b7</id>
+          <name>Nebesnoi sotni</name>
+        </endPoint>
+        <busAmount>1</busAmount>
+        <company>
+          <id>2409613d-f387-49b4-b0de-47a9943bca47</id>
+          <companyName>Zhytomyr buses</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>AC 1234 AA</busNumber>
+        </busesNumbers>
+      </route>
+      <route>
+        <id>5732756c-39f0-4c2c-a167-90a2e7f795cb</id>
+        <routeName>41</routeName>
+        <startPoint>
+          <id>26deba53-cef3-4ca5-8501-a1ba0ea55fd1</id>
+          <name>Dombrovskogo</name>
+        </startPoint>
+        <endPoint>
+          <id>d031ea67-17c5-4105-ade0-f80e60f1441e</id>
+          <name>Lesy Ukrainki</name>
+        </endPoint>
+        <busAmount>2</busAmount>
+        <company>
+          <id>2409613d-f387-49b4-b0de-47a9943bca47</id>
+          <companyName>Zhytomyr buses</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>AA 1221 AA</busNumber>
+          <busNumber>AC 3782 AA</busNumber>
+        </busesNumbers>
+      </route>
+      <route>
+        <id>c90152c1-1f42-42ee-b2da-d64492fd37ea</id>
+        <routeName>24</routeName>
+        <startPoint>
+          <id>d031ea67-17c5-4105-ade0-f80e60f1441e</id>
+          <name>Lesy Ukrainki</name>
+        </startPoint>
+        <endPoint>
+          <id>8feacae5-ff4a-4178-a414-2ae8832dff6c</id>
+          <name>Chehova</name>
+        </endPoint>
+        <busAmount>2</busAmount>
+        <company>
+          <id>2409613d-f387-49b4-b0de-47a9943bca47</id>
+          <companyName>Zhytomyr buses</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>BO 7591 AA</busNumber>
+          <busNumber>BO 1940 AA</busNumber>
+        </busesNumbers>
+      </route>
+    </routes>
+  </company>
+  <company>
+    <id>b25683b1-0e44-40e2-a034-899bd8499e82</id>
+    <companyName>Zhytomyr travel</companyName>
+    <routes>
+      <route>
+        <id>41121696-f153-4f9e-9c15-732f7a8ee633</id>
+        <routeName>33</routeName>
+        <startPoint>
+          <id>0b132c64-ec98-4705-afa0-20c86047e347</id>
+          <name>Mykhailivska</name>
+        </startPoint>
+        <endPoint>
+          <id>a55a4813-4533-495f-93ec-341002844074</id>
+          <name>Ploscha Peremogy</name>
+        </endPoint>
+        <busAmount>3</busAmount>
+        <company>
+          <id>b25683b1-0e44-40e2-a034-899bd8499e82</id>
+          <companyName>Zhytomyr travel</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>BB 1001 AA</busNumber>
+          <busNumber>AM 2958 AA</busNumber>
+          <busNumber>AM 0593 AA</busNumber>
+        </busesNumbers>
+      </route>
+    </routes>
+  </company>
+  <company>
+    <id>85fd8925-97e2-4321-98e3-ea7849047ff4</id>
+    <companyName>One way to Zhytomyr</companyName>
+    <routes>
+      <route>
+        <id>58ef75e2-cf78-4b42-8028-fc6bdbc4dafa</id>
+        <routeName>99</routeName>
+        <startPoint>
+          <id>26deba53-cef3-4ca5-8501-a1ba0ea55fd1</id>
+          <name>Dombrovskogo</name>
+        </startPoint>
+        <endPoint>
+          <id>ad8ff02b-c9a9-4933-96b9-49ad80e8bd4e</id>
+          <name>Gruschevskogo</name>
+        </endPoint>
+        <busAmount>3</busAmount>
+        <company>
+          <id>85fd8925-97e2-4321-98e3-ea7849047ff4</id>
+          <companyName>One way to Zhytomyr</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>BI 4774 AA</busNumber>
+          <busNumber>AM 4772 AA</busNumber>
+          <busNumber>AM 4753 AA</busNumber>
+        </busesNumbers>
+      </route>
+    </routes>
+  </company>
+  <company>
+    <id>a9a9023e-dd53-404a-93ea-0f6e67927e99</id>
+    <companyName>Public transport</companyName>
+    <routes>
+      <route>
+        <id>4c1450f2-f2e5-476c-a49a-0955c450206d</id>
+        <routeName>223</routeName>
+        <startPoint>
+          <id>d031ea67-17c5-4105-ade0-f80e60f1441e</id>
+          <name>Lesy Ukrainki</name>
+        </startPoint>
+        <endPoint>
+          <id>91d2afc4-24e7-4551-b70f-721a17baf13e</id>
+          <name>Schevchenka</name>
+        </endPoint>
+        <busAmount>4</busAmount>
+        <company>
+          <id>a9a9023e-dd53-404a-93ea-0f6e67927e99</id>
+          <companyName>Public transport</companyName>
+        </company>
+        <busesNumbers>
+          <busNumber>AA 4664 AA</busNumber>
+          <busNumber>AM 2059 AA</busNumber>
+          <busNumber>BE 3987 AA</busNumber>
+          <busNumber>BI 4660 AA</busNumber>
+        </busesNumbers>
+      </route>
+    </routes>
+  </company>
+</companies>
